@@ -1,7 +1,21 @@
-## Hi there 👋
+<h1>Hi, I'm Thomas! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+<h3>Stanford Law School Website</h3>
+- <b>Automated Profile Update Email</b>
+
+
+<h2>📺 Popular YouTube Videos</h2>
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Thomas Pham | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: www.linkedin.com/in/tmpham888
 
 <!--
-**tphamer8/tphamer8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
