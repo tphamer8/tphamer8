@@ -1,6 +1,6 @@
 <h1>Hi, I'm Thomas! <br/><a href="https://github.com/tphamer8">Programmer</a>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 <h3>Stanford Law School Website</h3>
 - <b>Automated Profile Update Email</b>
