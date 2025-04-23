@@ -6,7 +6,7 @@
 - <b>Automated Profile Update Email</b>
 
 
-<h2>📺 Popular YouTube Videos</h2>
+<!--<h2>📺 Popular YouTube Videos</h2> -->
 
 <h2> 🤳 Connect with me:</h2>
 <a href="www.linkedin.com/in/tmpham888">LinkedIn</a>
