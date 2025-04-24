@@ -4,7 +4,7 @@
 
 
 - <b>Stanford Law School Automated Email System</b>
-  - [New Webpage Profile Email Script](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [New Webpage Profile Email Script](https://github.com/tphamer8/SLSAutomatedEmailSystem/blob/main/README.md)
 
 <!--<h2>📺 Popular YouTube Videos</h2> -->
 
