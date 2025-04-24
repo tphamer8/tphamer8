@@ -1,10 +1,10 @@
-<h1>Hi, I'm Thomas! <br/><a href="https://github.com/tphamer8">Programmer</a>
+<h1>Hi, I'm Thomas! <br/><a href="https://github.com/tphamer8">CS Student</a>
 
 <h2>👨‍💻 Projects:</h2>
 
-<h3>Stanford Law School Website</h3>
-- <b>Automated Profile Update Email</b>
 
+- <b>Stanford Law School Automated Email System</b>
+  - [New Webpage Profile Email Script](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <!--<h2>📺 Popular YouTube Videos</h2> -->
 
