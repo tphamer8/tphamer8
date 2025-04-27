@@ -5,7 +5,7 @@
 - <b>Databases/SQL</b>
   - [Yelp Clone](https://github.com/tphamer8/Yelp_Clone) - In progress
 - <b>Javascript</b>
-  - [Stanford Law School Automated Email System](https://github.com/tphamer8/SLSAutomatedEmailSystem/blob/main/README.md)
+  - [Stanford Law School Automated Email System](https://github.com/tphamer8/SLS_Automated_Email_System)
 - <b>Python</b>
   - [STEM Launch Program Discord Verification Bot](https://github.com/tphamer8/SLP_Discord_Bot)
 
