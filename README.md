@@ -3,6 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Databases/SQL</b>
+  - [Yelp Clone](https://github.com/tphamer8/SLSAutomatedEmailSystem/blob/main/README.md)
 - <b>Javascript</b>
   - [Stanford Law School Automated Email System](https://github.com/tphamer8/SLSAutomatedEmailSystem/blob/main/README.md)
 - <b>Python</b>
