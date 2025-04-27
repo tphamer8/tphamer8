@@ -1,6 +1,6 @@
 <h1>Hi, I'm Thomas! <br/><a href="https://github.com/tphamer8">CS Student</a>
 
-<h2>👨‍💻 Projects:</h2>
+<h2>Projects:</h2>
 
 - <b>Databases/SQL</b>
   - [Yelp Clone](https://github.com/tphamer8/SLSAutomatedEmailSystem/blob/main/README.md) - In progress
@@ -11,7 +11,7 @@
 
 <!--<h2>📺 Popular YouTube Videos</h2> -->
 
-<h2> 🤳 Connect with me:</h2>
+<h2>Connect with me:</h2>
 <a href="www.linkedin.com/in/tmpham888">LinkedIn</a>
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
