@@ -6,7 +6,7 @@
 - <b>Stanford Law School Automated Email System</b>
   - [New Webpage Profile Email Script](https://github.com/tphamer8/SLSAutomatedEmailSystem/blob/main/README.md)
 - <b>STEM Launch Program Discord Bot</b>
-  - [Role Assignment Bot](https://github.com/tphamer8/SLP_Discord_Bot)
+  - [Role Verfication Bot](https://github.com/tphamer8/SLP_Discord_Bot)
 
 <!--<h2>📺 Popular YouTube Videos</h2> -->
 
