@@ -8,6 +8,7 @@
   - [Stanford Law School Automated Email System](https://github.com/tphamer8/SLS_Automated_Email_System)
 - <b>Python</b>
   - [STEM Launch Program Discord Verification Bot](https://github.com/tphamer8/SLP_Discord_Bot)
+  - [Stanford Law School HTML Scrapper](https://github.com/tphamer8/SLS_Old_Doc_Link_Updater)
 
 <!--<h2>📺 Popular YouTube Videos</h2> -->
 
