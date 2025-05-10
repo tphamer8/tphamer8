@@ -3,7 +3,7 @@
 <h2>Projects:</h2>
 
 - <b>Databases/SQL</b>
-  - [Yelp Clone](https://github.com/tphamer8/Yelp_Clone) - In progress
+  - [Yelp Clone](https://github.com/tphamer8/Yelp_Clone)
 - <b>Javascript</b>
   - [Stanford Law School Automated Email System](https://github.com/tphamer8/SLS_Automated_Email_System)
 - <b>Python</b>
