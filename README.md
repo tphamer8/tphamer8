@@ -4,7 +4,7 @@
 
 - <b>Databases/SQL</b>
   - [Yelp Clone](https://github.com/tphamer8/Yelp_Clone)
-  - [DCA SPY](https://github.com/tphamer8/DCA-SPY)
+  - [DCA SPY](https://github.com/tphamer8/DCA-SPY) - In Progress
 - <b>Javascript</b>
   - [Stanford Law School Automated Email System](https://github.com/tphamer8/SLS_Automated_Email_System)
 - <b>Python</b>
