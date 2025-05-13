@@ -8,7 +8,7 @@
 - <b>Javascript</b>
   - [Stanford Law School Automated Email System](https://github.com/tphamer8/SLS_Automated_Email_System)
 - <b>Python</b>
-  - [Stanford Law School HTML Scrapper](https://github.com/tphamer8/SLS_Old_Doc_Link_Updater) - In progress
+  - [Stanford Law School HTML Scrapper](https://github.com/tphamer8/SLS_Old_Doc_Link_Updater)
   - [Stanford Law School Directory Update Script](https://github.com/tphamer8/SLS-Directory-Update-Script)
   - [STEM Launch Program Discord Bot](https://github.com/tphamer8/SLP_Discord_Bot)
 
