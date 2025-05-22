@@ -12,7 +12,8 @@
   - [Stanford Law School Directory Update Script](https://github.com/tphamer8/SLS-Directory-Update-Script)
   - [STEM Launch Program Discord Bot](https://github.com/tphamer8/SLP_Discord_Bot)
 
-<!--<h2>📺 Popular YouTube Videos</h2> -->
+<!--<h2>📺 Popular YouTube Videos</h2> 
+-->
 
 <h2>Connect with me:</h2>
 <a href="www.linkedin.com/in/tmpham888">LinkedIn</a>
